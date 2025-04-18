@@ -1,0 +1,1298 @@
+﻿[
+  {
+    "Q": "Qual é o nome do maior oceano do mundo?",
+    "A": "Oceano Pacífico",
+    "B": "Oceano Índico",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi o primeiro presidente afro-americano dos Estados Unidos?",
+    "A": "Barack Obama",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos continentes existem neste mundo?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "O ator Arnold Schwarzenegger já foi governador de qual estado americano?",
+    "A": "Califórnia",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que se transforma um girino?",
+    "A": "sapo",
+    "B": "cobra",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem escreveu a famosa série de livros Harry Potter?",
+    "A": "J. K. Rowling",
+    "B": "Dan Brown",
+    "YES": "A"
+  },
+  {
+    "Q": "Que país deu aos Estados Unidos sua famosa Estátua da Liberdade como presente em 1886?",
+    "A": "França",
+    "B": "Alemanha",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a capital do estado americano do Havaí?",
+    "A": "Honolulu",
+    "B": "Makaha",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos dias existem em um ano bissexto?",
+    "A": "366",
+    "B": "365",
+    "YES": "A"
+  },
+  {
+    "Q": "Um arco-íris tem quantas cores?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "Um termômetro é um dispositivo de medição para medir o quê?",
+    "A": "temperatura",
+    "B": "pressão arterial",
+    "YES": "A"
+  },
+  {
+    "Q": "Como se chama um cabrito?",
+    "A": "criança",
+    "B": "gatinho",
+    "YES": "A"
+  },
+  {
+    "Q": "Peter Pan é o capitão de qual grupo de meninos?",
+    "A": "Garotos Perdidos",
+    "B": "Homens Perdidos",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi o primeiro humano a pisar na Lua?",
+    "A": "Neil Armstrong",
+    "B": "Albert Einstein",
+    "YES": "A"
+  },
+  {
+    "Q": "Em qual cidade o Batman mora?",
+    "A": "Cidade de Gotham",
+    "B": "Cidade Esmeralda",
+    "YES": "A"
+  },
+  {
+    "Q": "De que direção o sol nasce?",
+    "A": "Leste",
+    "B": "Oeste",
+    "YES": "A"
+  },
+  {
+    "Q": "Que nome é dado a uma elefanta?",
+    "A": "Vaca",
+    "B": "Rainha",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de animal é um morcego?",
+    "A": "mamífero",
+    "B": "Vertebrados",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o animal mais alto do mundo?",
+    "A": "girafa",
+    "B": "avestruz",
+    "YES": "A"
+  },
+  {
+    "Q": "Um triângulo é composto por quantos lados?",
+    "A": "Três",
+    "B": "Sete",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome do cowboy de brinquedo em Toy Story?",
+    "A": "Amadeirado",
+    "B": "Zumbido",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos planetas existem no nosso sistema solar?",
+    "A": "8",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "Segundo o Dr. Seuss, quem roubou o Natal?",
+    "A": "O Grinch",
+    "B": "Papai Noel",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de peixe é o Nemo?",
+    "A": "Peixe-palhaço",
+    "B": "Peixe-palhaço",
+    "YES": "A"
+  },
+  {
+    "Q": "Onde fica a Grande Pirâmide de Gizé?",
+    "A": "Egito",
+    "B": "Índia",
+    "YES": "A"
+  },
+  {
+    "Q": "O que é uma corça?",
+    "A": "Cervo",
+    "B": "Cachorro",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos dias tem um ano?",
+    "A": "365",
+    "B": "367",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior mamífero do mundo?",
+    "A": "Baleia",
+    "B": "Tubarão",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual animal é o mais alto do mundo?",
+    "A": "Girafa",
+    "B": "Gato",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que capital da Europa você encontraria a Torre Eiffel?",
+    "A": "Paris",
+    "B": "França",
+    "YES": "A"
+  },
+  {
+    "Q": "O que poderia tornar Harry Potter invisível?",
+    "A": "Sua capa de invisibilidade",
+    "B": "Sua varinha",
+    "YES": "A"
+  },
+  {
+    "Q": "Um cientista que estuda rochas é chamado de",
+    "A": "Geólogo",
+    "B": "Rocólogo",
+    "YES": "A"
+  },
+  {
+    "Q": "Se você sofre de aracnofobia, de qual animal você tem medo?",
+    "A": "Aranhas",
+    "B": "Cachorro",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos ossos os tubarões têm?",
+    "A": "0",
+    "B": "100",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior estado da América?",
+    "A": "Alasca",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "De que tipo de árvore vêm as bolotas?",
+    "A": "Carvalho",
+    "B": "Pinho",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos Grandes Lagos existem?",
+    "A": "5",
+    "B": "7",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior continente?",
+    "A": "Ásia",
+    "B": "África",
+    "YES": "A"
+  },
+  {
+    "Q": "O que as pessoas sedentas precisam?",
+    "A": "beber água",
+    "B": "dormir",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior animal terrestre vivo?",
+    "A": "elefante",
+    "B": "rinoceronte",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual oceano fica na costa da Califórnia?",
+    "A": "Oceano Pacífico",
+    "B": "Oceano Atlântico",
+    "YES": "A"
+  },
+  {
+    "Q": "De que cor são as estrelas na bandeira dos Estados Unidos?",
+    "A": "branco",
+    "B": "Vermelho",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi o primeiro presidente dos Estados Unidos?",
+    "A": "Jorge Washington",
+    "B": "Abraham Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "Que animal de fazenda nos dá leite para beber",
+    "A": "cabra",
+    "B": "porco",
+    "YES": "A"
+  },
+  {
+    "Q": "Na canção infantil \"Jack e Jill\", o que Jack e Jill sobem a colina para buscar?",
+    "A": "um balde de água",
+    "B": "um refrigerante",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual animal ronrona e é conhecido por perseguir ratos?",
+    "A": "gato",
+    "B": "cachorro",
+    "YES": "A"
+  },
+  {
+    "Q": "Como se chama quando as crianças saem para brincar durante o intervalo da escola?",
+    "A": "recesso",
+    "B": "Ir para a escola",
+    "YES": "A"
+  },
+  {
+    "Q": "Onde mora o Presidente dos Estados Unidos?",
+    "A": "Washington",
+    "B": "Nova Iorque",
+    "YES": "A"
+  },
+  {
+    "Q": "Quando foi o primeiro dia da independência na América?",
+    "A": "1776",
+    "B": "1780",
+    "YES": "A"
+  },
+  {
+    "Q": "A América foi dividida em quantas colônias?",
+    "A": "13",
+    "B": "15",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem governou a América antes de eles obterem a independência?",
+    "A": "os britânicos",
+    "B": "chinês",
+    "YES": "A"
+  },
+  {
+    "Q": "Quando a constituição foi escrita?",
+    "A": "1787",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem escreveu a declaração de independência?",
+    "A": "Os Pais Fundadores",
+    "B": "O rei da Grã-Bretanha",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o valor decimal da fração 2/5?",
+    "A": "0.4",
+    "B": "0.2",
+    "YES": "A"
+  },
+  {
+    "Q": "Como se chama no boliche quando você derruba todos os dez pinos no primeiro lançamento?",
+    "A": "Batida",
+    "B": "Quadro",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano os Estados Unidos comemoraram seu 200º aniversário?",
+    "A": "1976",
+    "B": "1970",
+    "YES": "A"
+  },
+  {
+    "Q": "Que camada da atmosfera foi parcialmente destruída por certos produtos químicos?",
+    "A": "A Camada de Ozônio",
+    "B": "A Troposfera",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a cor do prato mexicano chamado guacamole?",
+    "A": "verde",
+    "B": "azul",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de água é mais comum na Terra?",
+    "A": "Água salgada",
+    "B": "Água doce",
+    "YES": "A"
+  },
+  {
+    "Q": "Que lendário herói inglês roubou dos ricos e deu aos pobres?",
+    "A": "Robin Hood",
+    "B": "Peter Pan",
+    "YES": "A"
+  },
+  {
+    "Q": "Se você somar cada um dos ângulos internos de um triângulo, qual seria o total?",
+    "A": "180 graus",
+    "B": "60 graus",
+    "YES": "A"
+  },
+  {
+    "Q": "Se é meio-dia em Nova York, que horas são em São Francisco?",
+    "A": "12/31/1899 9:00:00 AM",
+    "B": "12/31/1899 8:00:00 AM",
+    "YES": "A"
+  },
+  {
+    "Q": "A que se refere o apelido \"Old Glory\"?",
+    "A": "A bandeira americana",
+    "B": "A Fonte da Juventude",
+    "YES": "A"
+  },
+  {
+    "Q": "Quais estados ocupam duas penínsulas?",
+    "A": "Michigan",
+    "B": "Nova Iorque",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual cor absorve mais luz solar?",
+    "A": "Preto",
+    "B": "Vermelho",
+    "YES": "A"
+  },
+  {
+    "Q": "Para que os peixes usam suas guelras?",
+    "A": "respirando",
+    "B": "natação",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o passado da palavra \"pressa\"?",
+    "A": "apressado",
+    "B": "apressado",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual dígito está na casa dos milésimos no número 3.654,019",
+    "A": "9",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual consoante é muda nas seguintes palavras?",
+    "A": "para",
+    "B": "e",
+    "YES": "A"
+  },
+  {
+    "Q": "O que significa ser imune a uma doença?",
+    "A": "Você não consegue pegá-lo",
+    "B": "É genético",
+    "YES": "A"
+  },
+  {
+    "Q": "Quais montanhas os primeiros pioneiros tiveram que cruzar para chegar ao atual Kentucky?",
+    "A": "Montanhas Apalaches",
+    "B": "Montanhas da Virgínia",
+    "YES": "A"
+  },
+  {
+    "Q": "Como chamamos a primeira parte de um livro ou história?",
+    "A": "Exposição",
+    "B": "Conflito",
+    "YES": "A"
+  },
+  {
+    "Q": "Que fenômeno natural cria dunas de areia?",
+    "A": "Vento",
+    "B": "Chuva",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual país não fica na América do Sul?",
+    "A": "Guatemala",
+    "B": "Chile",
+    "YES": "A"
+  },
+  {
+    "Q": "Na mitologia romana, quem era o rei dos deuses?",
+    "A": "Júpiter",
+    "B": "Mercúrio",
+    "YES": "A"
+  },
+  {
+    "Q": "O que é um adjetivo?",
+    "A": "Uma palavra que descreve um substantivo",
+    "B": "Uma palavra de ação",
+    "YES": "A"
+  },
+  {
+    "Q": "Com quantos anos de diferença são realizados os Jogos Olímpicos de Verão?",
+    "A": "4 anos",
+    "B": "2 anos",
+    "YES": "A"
+  },
+  {
+    "Q": "Simplifique a fração 18/24.",
+    "A": "3/4",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual das seguintes opções é equivalente a 3/4?",
+    "A": "6/8",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Adicione as seguintes frações: 2/5 + 3/10.",
+    "A": "3/5",
+    "B": "1/2",
+    "YES": "A"
+  },
+  {
+    "Q": "Subtraia as seguintes frações: 7/8 - 1/4.",
+    "A": "5/8",
+    "B": "3/4",
+    "YES": "A"
+  },
+  {
+    "Q": "Multiplique as seguintes frações: 2/3 脳 3/5.",
+    "A": "2/5",
+    "B": "1/5",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual elemento AU representa?",
+    "A": "Ouro",
+    "B": "Carbono",
+    "YES": "A"
+  },
+  {
+    "Q": "Quanto é 1025 dividido por 5?",
+    "A": "205",
+    "B": "225",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de discurso é \"vislumbrado\".",
+    "A": "verbo",
+    "B": "substantivo",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem canta \"obrigado a seguir\"",
+    "A": "Ariana Grande",
+    "B": "Taylor Swift",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual destes é um jogador de basquete?",
+    "A": "Kobe Bryant",
+    "B": "Babe Ruth",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual destes é um jogador de beisebol?",
+    "A": "Babe Ruth",
+    "B": "Steph Curry",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual desses animais vive em um ecossistema de lagoa?",
+    "A": "peixe",
+    "B": "pássaro",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que estação as folhas mudam de cor?",
+    "A": "Cair",
+    "B": "Verão",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual a idade mínima para trabalhar em um emprego público?",
+    "A": "25",
+    "B": "14",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual a idade mínima necessária para dirigir legalmente?",
+    "A": "15",
+    "B": "29",
+    "YES": "A"
+  },
+  {
+    "Q": "O pé grande é real ou é um mito?",
+    "A": "mito",
+    "B": "real",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantas cartas há em um baralho completo?",
+    "A": "52",
+    "B": "58",
+    "YES": "A"
+  },
+  {
+    "Q": "Como são chamados os animais que comem carne e plantas?",
+    "A": "Onívoros",
+    "B": "Carnívoro",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos dentes um ser humano adulto tem?",
+    "A": "32",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual planeta tem mais gravidade?",
+    "A": "Júpiter",
+    "B": "Saturno",
+    "YES": "A"
+  },
+  {
+    "Q": "As impressões digitais de quais animais são exatamente iguais às impressões digitais humanas?",
+    "A": "Coala",
+    "B": "Gorila",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome da xícara de chá em A Bela e a Fera?",
+    "A": "Lasca",
+    "B": "Quentin",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantas asas tem uma abelha?",
+    "A": "4",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome do parceiro de combate ao crime do Batman?",
+    "A": "Pisco de peito vermelho",
+    "B": "Arlequina",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem será nosso novo vice-presidente em 2021?",
+    "A": "Kamala Harris",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual destes NÃO é o nome de uma Tartaruga Ninja Mutante Adolescente?",
+    "A": "Picasso",
+    "B": "Leonardo",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o brinquedo favorito de Bonnie em Toy Story 4?",
+    "A": "Garfo",
+    "B": "Garfo-Gordo",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos ossos existem no corpo de um ser humano adulto?",
+    "A": "206",
+    "B": "102",
+    "YES": "A"
+  },
+  {
+    "Q": "No filme Frozen, qual música Elsa canta enquanto constrói o castelo?",
+    "A": "Deixa para lá",
+    "B": "Para o desconhecido",
+    "YES": "A"
+  },
+  {
+    "Q": "A Stanley Cup é concedida em qual esporte?",
+    "A": "Hóquei",
+    "B": "Futebol",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a quarta letra do alfabeto?",
+    "A": "D",
+    "B": "A",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual número vem logo antes do número 4?",
+    "A": "3",
+    "B": "5",
+    "YES": "A"
+  },
+  {
+    "Q": "O que é 4 x 4",
+    "A": "16",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual deles não é uma das 4 direções cardeais?",
+    "A": "Sudeste",
+    "B": "Oeste",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o quarto mês do ano?",
+    "A": "abril",
+    "B": "Poderia",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o quarto dia da semana?",
+    "A": "Quarta-feira",
+    "B": "Segunda-feira",
+    "YES": "A"
+  },
+  {
+    "Q": "As quatro estações são",
+    "A": "primavera, verão, inverno, outono",
+    "B": "cima, baixo, direita, esquerda",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é outro nome para o Dia da Independência?",
+    "A": "4 de julho",
+    "B": "Dia do Trabalho",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantas pernas as aranhas têm?",
+    "A": "8",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual país abriga o canguru?",
+    "A": "Austrália",
+    "B": "Alemanha",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual destes é um time de beisebol?",
+    "A": "Boston Red Sox",
+    "B": "Los Angeles Lakers",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem canta \"Shake it off?\"",
+    "A": "Taylor Swift",
+    "B": "Billie Eilish",
+    "YES": "A"
+  },
+  {
+    "Q": "A Declaração de Independência pode ser comparada a uma...",
+    "A": "Carta de término",
+    "B": "Canção",
+    "YES": "A"
+  },
+  {
+    "Q": "Que feriado também é conhecido como All Hallows Eve?",
+    "A": "Dia das Bruxas",
+    "B": "Natal",
+    "YES": "A"
+  },
+  {
+    "Q": "As pessoas que vivem no Brasil falam esta língua",
+    "A": "Português",
+    "B": "Espanhol",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual dos seguintes é o maior país do mundo?",
+    "A": "Rússia",
+    "B": "França",
+    "YES": "A"
+  },
+  {
+    "Q": "O que as árvores fornecem que é essencial para a vida?",
+    "A": "oxigênio",
+    "B": "carbono",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o quarto planeta a partir do sol?",
+    "A": "Marte",
+    "B": "Terra",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a medida de um ângulo reto?",
+    "A": "180 graus",
+    "B": "90 graus",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano começou a guerra da revolução americana?",
+    "A": "1775",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual destes NÃO causa intemperismo?",
+    "A": "animais",
+    "B": "vento",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome do cowboy de brinquedo emHistória de brinquedos?",
+    "A": "Amadeirado",
+    "B": "Andy",
+    "YES": "A"
+  },
+  {
+    "Q": "De que filme é a Princesa Fiona?",
+    "A": "Shrek",
+    "B": "Encantado",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem faz as leis no governo do Maine?",
+    "A": "Poder Legislativo",
+    "B": "Poder Judiciário",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome de um time de futebol?",
+    "A": "Buffalo Bills",
+    "B": "Ianques de Nova York",
+    "YES": "A"
+  },
+  {
+    "Q": "Como chamamos a expiração?",
+    "A": "exalar",
+    "B": "Engolir",
+    "YES": "A"
+  },
+  {
+    "Q": "O que um adjetivo faz?",
+    "A": "Descreve um substantivo",
+    "B": "Nomeia um lugar",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a porta de entrada para o sistema digestivo?",
+    "A": "boca",
+    "B": "nariz",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem publicou a Proclamação de Emancipação?",
+    "A": "Abraham Lincoln",
+    "B": "Estande de John Wilkes",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual dos seguintes estados \"separou-se\" dos EUA?",
+    "A": "Tennessee",
+    "B": "Pensilvânia",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual \"Forte\" foi atacado pelos rebeldes do sul para iniciar a Guerra Civil?",
+    "A": "Forte Sumpter",
+    "B": "Forte Dickinson",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a causa do porquê você \"salta\" ao caminhar na lua?",
+    "A": "menos gravidade",
+    "B": "atmosfera fina",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano o Google foi inventado?",
+    "A": "1998",
+    "B": "1987",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a montanha mais alta do mundo?",
+    "A": "Monte Everest",
+    "B": "Monte Kilimanjaro",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual animal é conhecido por ter a maior expectativa de vida?",
+    "A": "Tubarão da Groenlândia",
+    "B": "Baleia Azul",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual camada da Terra está diretamente abaixo da crosta?",
+    "A": "Manto",
+    "B": "Litosfera",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual dos seguintes animais é um marsupial?",
+    "A": "Canguru",
+    "B": "Canguru",
+    "YES": "A"
+  },
+  {
+    "Q": "Como é chamado o processo pelo qual as plantas produzem seu alimento usando a luz solar?",
+    "A": "Fotossíntese",
+    "B": "Fotossíntese",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de animal é um pinguim?",
+    "A": "Pássaro",
+    "B": "Peixe",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o principal gás encontrado na atmosfera da Terra?",
+    "A": "Azoto",
+    "B": "Dióxido de carbono",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual animal é conhecido como o \"Rei da Selva\"?",
+    "A": "Leão",
+    "B": "Tigre",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a substância natural mais dura da Terra?",
+    "A": "Diamante",
+    "B": "Ouro",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos corações tem um polvo?",
+    "A": "3",
+    "B": "2",
+    "YES": "A"
+  },
+  {
+    "Q": "Um grupo de assinaturas com 4 pessoas é chamado de...",
+    "A": "quarteto",
+    "B": "trio",
+    "YES": "A"
+  },
+  {
+    "Q": "Quais letras estão nos 4 botões de um celular?",
+    "A": "GHI",
+    "B": "abc",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi o 4º presidente dos Estados Unidos da América?",
+    "A": "James Madison",
+    "B": "Jorge Washington",
+    "YES": "A"
+  },
+  {
+    "Q": "Como se escreve o número 4 em algarismos romanos?",
+    "A": "IV",
+    "B": "III",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual palavra é 4 em espanhol?",
+    "A": "quatro",
+    "B": "nove",
+    "YES": "A"
+  },
+  {
+    "Q": "Que tipo de planta é considerada da sorte?",
+    "A": "um trevo de quatro folhas",
+    "B": "uma rosa",
+    "YES": "A"
+  },
+  {
+    "Q": "O quarto rebatedor em uma escalação de beisebol é chamado de....",
+    "A": "rebatedor de limpeza",
+    "B": "jogador de beisebol",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual forma tem 4 lados?",
+    "A": "quadrado",
+    "B": "triângulo",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual foi o 4º presente dos 12 dias de Natal?",
+    "A": "4 pássaros cantando",
+    "B": "4 trompas francesas",
+    "YES": "A"
+  },
+  {
+    "Q": "Quais das seguintes cores sãonãonos anéis olímpicos?",
+    "A": "Laranja",
+    "B": "Verde",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a cor mais rara de M&M?",
+    "A": "Marrom",
+    "B": "Vermelho",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantas costelas existem no corpo humano?",
+    "A": "24",
+    "B": "26",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual país produz mais café no mundo?",
+    "A": "Brasil",
+    "B": "Vietnã",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o menor país do mundo?",
+    "A": "Cidade do Vaticano",
+    "B": "Nauru",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a letra mais comum do alfabeto inglês?",
+    "A": "E",
+    "B": "G",
+    "YES": "A"
+  },
+  {
+    "Q": "Diga o nome de um mamífero que não consegue pular",
+    "A": "rinoceronte",
+    "B": "golfinho",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual país é o maior produtor de banana do mundo?",
+    "A": "Índia",
+    "B": "Vietnã",
+    "YES": "A"
+  },
+  {
+    "Q": "Onde fica o Hall da Fama do Basquete Feminino?",
+    "A": "Knoxville",
+    "B": "Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "Melhor Filme 1997",
+    "A": "Titânico",
+    "B": "A Ilha do Tesouro",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi o primeiro presidente a nascer em um hospital?",
+    "A": "Jimmy Carter",
+    "B": "Ronald Reagan",
+    "YES": "A"
+  },
+  {
+    "Q": "A pessoa mais jovem a se tornar presidente",
+    "A": "Teodoro Roosevelt",
+    "B": "Grover Cleveland",
+    "YES": "A"
+  },
+  {
+    "Q": "O primeiro filme da franquia Velozes e Furiosos foi lançado em que ano?",
+    "A": "2001",
+    "B": "1999",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual foi o primeiro Call of Duty a apresentar zumbis?",
+    "A": "Call of Duty: Mundo em Guerra",
+    "B": "Call of Duty Modern Warfare 2",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano Call of Duty foi feito?",
+    "A": "2003",
+    "B": "2006",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual religião tem mais adeptos no mundo?",
+    "A": "cristandade",
+    "B": "budismo",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a estrela mais próxima do planeta Terra?",
+    "A": "O Sol",
+    "B": "A Lua",
+    "YES": "A"
+  },
+  {
+    "Q": "Que cidade é apelidada de Cidade dos Ventos?",
+    "A": "Chicago",
+    "B": "Milwaukee",
+    "YES": "A"
+  },
+  {
+    "Q": "Que cidade é apelidada de Big Apple?",
+    "A": "Nova Iorque",
+    "B": "Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual estado é apelidado de Golden State?",
+    "A": "Califórnia",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem foi um herói, mas também o vilão em Homem-Aranha Longe de Casa",
+    "A": "Mistério",
+    "B": "Homem-Aranha",
+    "YES": "A"
+  },
+  {
+    "Q": "Os egípcios construíram muros de terra para conter as cheias do Nilo",
+    "A": "águas",
+    "B": "Pedra",
+    "YES": "A"
+  },
+  {
+    "Q": "Família governante",
+    "A": "dinastia",
+    "B": "pirâmide",
+    "YES": "A"
+  },
+  {
+    "Q": "O Egito está localizado em qual continente",
+    "A": "África",
+    "B": "Ásia",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual rio é considerado como \"dador de vida ao Egito\" tanto nos tempos antigos quanto modernos?",
+    "A": "Nilo",
+    "B": "Rio Ganges",
+    "YES": "A"
+  },
+  {
+    "Q": "Quais características geográficas atuam como barreiras naturais que protegem o Egito de ataques?",
+    "A": "Desertos e as cataratas do Nilo",
+    "B": "neve e o rio Nilo",
+    "YES": "A"
+  },
+  {
+    "Q": "Como a maioria das pessoas no Egito ganhava a vida?",
+    "A": "agricultura",
+    "B": "troca",
+    "YES": "A"
+  },
+  {
+    "Q": "Quando Michael Jordan foi convocado",
+    "A": "1984",
+    "B": "1986",
+    "YES": "A"
+  },
+  {
+    "Q": "Como se chama uma música religiosa ou festiva?",
+    "A": "Carol",
+    "B": "Hino",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior órgão interno do corpo humano?",
+    "A": "Fígado",
+    "B": "Fígado",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual exercício envolve todos os grupos musculares?",
+    "A": "Burpees",
+    "B": "Burpees",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantos dias tem agosto?",
+    "A": "31",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "Quão rápido uma chita pode correr?",
+    "A": "68-75 mph",
+    "B": "51-56 mph",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual país consome mais sorvete per capita?",
+    "A": "Estados Unidos",
+    "B": "Itália",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano o sorvete de casquinha foi inventado pela primeira vez?",
+    "A": "1904",
+    "B": "1900",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual cantora é frequentemente chamada de \"Rainha do Pop\"?",
+    "A": "Madona",
+    "B": "Beyoncé",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual ator estrelou a série \"Missão: Impossível\"?",
+    "A": "Tom Cruise",
+    "B": "Will Smith",
+    "YES": "A"
+  },
+  {
+    "Q": "O movimento do sangue através do coração e do corpo é chamado de:",
+    "A": "Circulação",
+    "B": "Bomba cardíaca",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual órgão remove os resíduos do sangue?",
+    "A": "Rins",
+    "B": "Pulmões",
+    "YES": "A"
+  },
+  {
+    "Q": "Estes são os tubos que transportam o sangue de volta ao coração:",
+    "A": "Veias",
+    "B": "Tubos",
+    "YES": "A"
+  },
+  {
+    "Q": "Esta parte da célula regula o que entra ou sai da célula:",
+    "A": "Membrana celular",
+    "B": "Citoplasma",
+    "YES": "A"
+  },
+  {
+    "Q": "As plantas transportam água e substâncias dissolvidas através de:",
+    "A": "Xilema",
+    "B": "Tronco",
+    "YES": "A"
+  },
+  {
+    "Q": "A planta absorve água através de:",
+    "A": "Raízes",
+    "B": "Folha",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o nome do primeiro satélite enviado ao espaço por humanos em 1957?",
+    "A": "Sputnik 1",
+    "B": "Apolo 11",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual vitamina é mais comumente encontrada em laranjas?",
+    "A": "Vitamina C",
+    "B": "Vitamina A",
+    "YES": "A"
+  },
+  {
+    "Q": "Como é chamado o processo quando o pão cresce antes de assar?",
+    "A": "Fermentação",
+    "B": "Evaporação",
+    "YES": "A"
+  },
+  {
+    "Q": "A qual grupo alimentar o feijão pertence?",
+    "A": "Proteína",
+    "B": "Grãos",
+    "YES": "A"
+  },
+  {
+    "Q": "Quem sediará os Jogos Olímpicos de 2020?",
+    "A": "Japão",
+    "B": "Sidney",
+    "YES": "A"
+  },
+  {
+    "Q": "Em que ano o primeiro iPad foi lançado?",
+    "A": "2010",
+    "B": "2009",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o rosto de um presidente dos EUA que está na moeda?",
+    "A": "Roosevelt",
+    "B": "Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é o maior rio do mundo?",
+    "A": "Amazon",
+    "B": "Mississipi",
+    "YES": "A"
+  },
+  {
+    "Q": "Quantas estrelas a bandeira dos Estados Unidos da América tem agora?",
+    "A": "50",
+    "B": "40",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a definição de pré-história?",
+    "A": "História antes da escrita.",
+    "B": "História antes do fogo",
+    "YES": "A"
+  },
+  {
+    "Q": "Qual é a cor da pele de um urso polar?",
+    "A": "preto",
+    "B": "amarelo",
+    "YES": "A"
+  },
+  {
+    "Q": "O número do meio em uma lista ordenada de números.",
+    "A": "Mediana",
+    "B": "Quociente",
+    "YES": "A"
+  },
+  {
+    "Q": "Significado da palavra divisão",
+    "A": "Quociente",
+    "B": "Fração",
+    "YES": "A"
+  },
+  {
+    "Q": "Em um par ordenado, o valor que é sempre escrito em segundo lugar.",
+    "A": "coordenada y",
+    "B": "eixo y",
+    "YES": "A"
+  }
+]

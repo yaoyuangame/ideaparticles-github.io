@@ -1,0 +1,1298 @@
+﻿[
+  {
+    "Q": "What is the name of the largest ocean in the world?",
+    "A": "Pacific Ocean",
+    "B": "Indian Ocean",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was the first African American President of the United States?",
+    "A": "Barack Obama",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "How many continents are in this world?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "Actor Arnold Schwarzenegger was once governor of which American state?",
+    "A": "California",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "What does a tadpole grow into?",
+    "A": "frog",
+    "B": "snake",
+    "YES": "A"
+  },
+  {
+    "Q": "Who wrote the famous Harry Potter series of books?",
+    "A": "J.K. Rowling",
+    "B": "Dan Brown",
+    "YES": "A"
+  },
+  {
+    "Q": "What country gave the United States it's famous Statue of Liberty as a gift in 1886?",
+    "A": "France",
+    "B": "Germany",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the capital city of the U.S. state of Hawaii?",
+    "A": "Honolulu",
+    "B": "Makaha",
+    "YES": "A"
+  },
+  {
+    "Q": "How any days are in a leap year?",
+    "A": "366",
+    "B": "365",
+    "YES": "A"
+  },
+  {
+    "Q": "A rainbow has how many colors?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "A thermometer is a measuring device for measuring what?",
+    "A": "temperature",
+    "B": "blood pressure",
+    "YES": "A"
+  },
+  {
+    "Q": "What is a baby goat called?",
+    "A": "kid",
+    "B": "kitten",
+    "YES": "A"
+  },
+  {
+    "Q": "Peter Pan is the captain of which group of boys?",
+    "A": "Lost Boys",
+    "B": "Lost Men",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was the first human to set foot upon the moon?",
+    "A": "Neil Armstrong",
+    "B": "Albert Einstein",
+    "YES": "A"
+  },
+  {
+    "Q": "Batman lives in which city?",
+    "A": "Gotham City",
+    "B": "Emerald City",
+    "YES": "A"
+  },
+  {
+    "Q": "From which direction does the sun rise?",
+    "A": "East",
+    "B": "West",
+    "YES": "A"
+  },
+  {
+    "Q": "What name is given to a female elephant?",
+    "A": "Cow",
+    "B": "Queen",
+    "YES": "A"
+  },
+  {
+    "Q": "What type of animal is a bat?",
+    "A": "mammal",
+    "B": "Vertebrates",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the world's tallest animal?",
+    "A": "giraffe",
+    "B": "ostrich",
+    "YES": "A"
+  },
+  {
+    "Q": "A triangle consists of how many sides?",
+    "A": "Three",
+    "B": "Seven",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the name of the toy cowboy in Toy Story?",
+    "A": "Woody",
+    "B": "Buzz",
+    "YES": "A"
+  },
+  {
+    "Q": "How many planets are in our solar system?",
+    "A": "8",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "According to Dr. Suess, who stole Christmas?",
+    "A": "The Grinch",
+    "B": "Santa Claus",
+    "YES": "A"
+  },
+  {
+    "Q": "What type of fish is Nemo?",
+    "A": "Clownfish",
+    "B": "Shark",
+    "YES": "A"
+  },
+  {
+    "Q": "Where is the Great Pyramid of Giza?",
+    "A": "Egypt",
+    "B": "India",
+    "YES": "A"
+  },
+  {
+    "Q": "What is a doe?",
+    "A": "Deer",
+    "B": "Dog",
+    "YES": "A"
+  },
+  {
+    "Q": "How many days are in a year?",
+    "A": "365",
+    "B": "367",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the largest mammal in the world?",
+    "A": "Whale",
+    "B": "Shark",
+    "YES": "A"
+  },
+  {
+    "Q": "Which animal is the tallest in the world?",
+    "A": "Giraffe",
+    "B": "Cat",
+    "YES": "A"
+  },
+  {
+    "Q": "In what capital city of Europe would you find the Eiffel Tower?",
+    "A": "Paris",
+    "B": "France",
+    "YES": "A"
+  },
+  {
+    "Q": "What could make Harry Potter invisible?",
+    "A": "His invisibility cloack",
+    "B": "His wand",
+    "YES": "A"
+  },
+  {
+    "Q": "A scientist who studies rocks is called a",
+    "A": "Geologist",
+    "B": "Rockologist",
+    "YES": "A"
+  },
+  {
+    "Q": "If you suffer from arachnophobia, which animal are you scared of?",
+    "A": "Spiders",
+    "B": "Dog",
+    "YES": "A"
+  },
+  {
+    "Q": "How many bones do sharks have?",
+    "A": "0",
+    "B": "100",
+    "YES": "A"
+  },
+  {
+    "Q": "What's the largest state in America?",
+    "A": "Alaska",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "What kind of tree do acorns come from?",
+    "A": "Oak",
+    "B": "Pine",
+    "YES": "A"
+  },
+  {
+    "Q": "How many Great Lakes are there?",
+    "A": "5",
+    "B": "7",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the largest continent?",
+    "A": "Asia",
+    "B": "Africa",
+    "YES": "A"
+  },
+  {
+    "Q": "What do thirsty people need?",
+    "A": "drink water",
+    "B": "sleep",
+    "YES": "A"
+  },
+  {
+    "Q": "Which is the largest living land animal?",
+    "A": "elepant",
+    "B": "rhino",
+    "YES": "A"
+  },
+  {
+    "Q": "Which ocean is off the coast of California?",
+    "A": "Pacific Ocean",
+    "B": "Atlantic Ocean",
+    "YES": "A"
+  },
+  {
+    "Q": "What color are the stars on the United States flag?",
+    "A": "white",
+    "B": "Red",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was the first president of the United States?",
+    "A": "George Washington",
+    "B": "Abraham Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "What farm animal gives us milk to drink",
+    "A": "goat",
+    "B": "pig",
+    "YES": "A"
+  },
+  {
+    "Q": "In the nursery rhyme, 'Jack and Jill', what do Jack and Jill go up the hill to fetch?",
+    "A": "a pail of water",
+    "B": "a soda",
+    "YES": "A"
+  },
+  {
+    "Q": "What animal purrs and is known for chasing mice?",
+    "A": "cat",
+    "B": "dog",
+    "YES": "A"
+  },
+  {
+    "Q": "What is it called when children go out to play during a break at school?",
+    "A": "lunch",
+    "B": "recess",
+    "YES": "A"
+  },
+  {
+    "Q": "Where does the President of the United States live?",
+    "A": "Washington",
+    "B": "New York",
+    "YES": "A"
+  },
+  {
+    "Q": "When was the first independence day in America?",
+    "A": "1776",
+    "B": "1780",
+    "YES": "A"
+  },
+  {
+    "Q": "America was divided in how many colonies?",
+    "A": "13",
+    "B": "15",
+    "YES": "A"
+  },
+  {
+    "Q": "Who ruled America before they got their independence?",
+    "A": "the British",
+    "B": "Chinese",
+    "YES": "A"
+  },
+  {
+    "Q": "When was the constitution written?",
+    "A": "1787",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Who wrote the declaration of independence?",
+    "A": "The Founding Fathers",
+    "B": "The king of Britain",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the decimal value of the fraction 2/5?",
+    "A": "0.4",
+    "B": "0.2",
+    "YES": "A"
+  },
+  {
+    "Q": "What is it called in bowling when you knock down all ten pins on your first toss?",
+    "A": "Strike",
+    "B": "Frame",
+    "YES": "A"
+  },
+  {
+    "Q": "In what year did the United States celebrate its 200th birthday?",
+    "A": "1976",
+    "B": "1970",
+    "YES": "A"
+  },
+  {
+    "Q": "What layer of the atmosphere has been partly destroyed by certain chemicals?",
+    "A": "The Ozone Layer",
+    "B": "The Troposhpere",
+    "YES": "A"
+  },
+  {
+    "Q": "What color is the Mexican dish called guacamole?",
+    "A": "green",
+    "B": "blue",
+    "YES": "A"
+  },
+  {
+    "Q": "What kind of water is most common on Earth?",
+    "A": "Salt Water",
+    "B": "Fresh Water",
+    "YES": "A"
+  },
+  {
+    "Q": "What legendary English hero stole from the rich and gave to the poor?",
+    "A": "Robin Hood",
+    "B": "Peter Pan",
+    "YES": "A"
+  },
+  {
+    "Q": "If you add up each of the interior angles in a triangle, what would the total be?",
+    "A": "180 degrees",
+    "B": "60 degrees",
+    "YES": "A"
+  },
+  {
+    "Q": "If it's noon in New York City, what time is it in San Francisco?",
+    "A": "12/31/1899 9:00:00 AM",
+    "B": "12/31/1899 8:00:00 AM",
+    "YES": "A"
+  },
+  {
+    "Q": "What does the nickname \"Old Glory\" refer to?",
+    "A": "The American Flag",
+    "B": "The Fountain of Youth",
+    "YES": "A"
+  },
+  {
+    "Q": "Which States occupies two peninsulas?",
+    "A": "Michigan",
+    "B": "New York",
+    "YES": "A"
+  },
+  {
+    "Q": "Which Color Absorbs the most sunlight?",
+    "A": "Black",
+    "B": "Red",
+    "YES": "A"
+  },
+  {
+    "Q": "What do fish use their gills for?",
+    "A": "breathing",
+    "B": "swimming",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the past tense of the word 'hurry'?",
+    "A": "hurried",
+    "B": "hurryd",
+    "YES": "A"
+  },
+  {
+    "Q": "Which digit is in the thousandths place in the number 3,654.019",
+    "A": "9",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Which consonant is silent in the following words?",
+    "A": "t",
+    "B": "e",
+    "YES": "A"
+  },
+  {
+    "Q": "What does it mean if you are immune to a sickness or disease?",
+    "A": "You can't catch it",
+    "B": "It's genetic",
+    "YES": "A"
+  },
+  {
+    "Q": "What Mountains did early pioneers have to cross to reach present-day Kentucky?",
+    "A": "Appalachian Mountains",
+    "B": "Virginia Mountains",
+    "YES": "A"
+  },
+  {
+    "Q": "What do we call the first part of a book or story?",
+    "A": "Exposition",
+    "B": "Conflict",
+    "YES": "A"
+  },
+  {
+    "Q": "What natural phenomenon creates sand dunes?",
+    "A": "Wind",
+    "B": "Rain",
+    "YES": "A"
+  },
+  {
+    "Q": "Which country in not in South America?",
+    "A": "Guatemala",
+    "B": "Chile",
+    "YES": "A"
+  },
+  {
+    "Q": "In Roman Mythology, who was king of the gods?",
+    "A": "Jupiter",
+    "B": "Mercury",
+    "YES": "A"
+  },
+  {
+    "Q": "What is an adjective?",
+    "A": "A word that describes a noun",
+    "B": "An action word",
+    "YES": "A"
+  },
+  {
+    "Q": "How many years apart are the Summer Olympics Games held?",
+    "A": "4 years",
+    "B": "2 years",
+    "YES": "A"
+  },
+  {
+    "Q": "Simplify the fraction 18/24.",
+    "A": "3/4",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of the following is equivalent to 3/4?",
+    "A": "6/8",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Add the following fractions: 2/5 + 3/10.",
+    "A": "7/10",
+    "B": "1/2",
+    "YES": "A"
+  },
+  {
+    "Q": "Subtract the following fractions: 7/8 - 1/4.",
+    "A": "5/8",
+    "B": "3/4",
+    "YES": "A"
+  },
+  {
+    "Q": "Multiply the following fractions: 2/3 脳 3/5.",
+    "A": "2/5",
+    "B": "1/5",
+    "YES": "A"
+  },
+  {
+    "Q": "What element does AU stand for",
+    "A": "Gold",
+    "B": "Carbon",
+    "YES": "A"
+  },
+  {
+    "Q": "What is 1025 divided by 5?",
+    "A": "205",
+    "B": "225",
+    "YES": "A"
+  },
+  {
+    "Q": "What type of speech is \"glimpsed\".",
+    "A": "verb",
+    "B": "noun",
+    "YES": "A"
+  },
+  {
+    "Q": "Who sings \" thank u next",
+    "A": "Ariana Grande",
+    "B": "Taylor Swift",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of these is a basketball player?",
+    "A": "Kobe Bryant",
+    "B": "Babe Ruth",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of these is a baseball player?",
+    "A": "Babe Ruth",
+    "B": "Steph Curry",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of these animals lives in a pond ecosystem?",
+    "A": "fish",
+    "B": "bird",
+    "YES": "A"
+  },
+  {
+    "Q": "In which season do the leaves change color?",
+    "A": "Fall",
+    "B": "Summer",
+    "YES": "A"
+  },
+  {
+    "Q": "How old do you have to be to work a public job?",
+    "A": "25",
+    "B": "14",
+    "YES": "A"
+  },
+  {
+    "Q": "How old do you have to be to legally drive?",
+    "A": "15",
+    "B": "29",
+    "YES": "A"
+  },
+  {
+    "Q": "Is big foot real or myth?",
+    "A": "myth",
+    "B": "real",
+    "YES": "A"
+  },
+  {
+    "Q": "How many cards are there in a full deck?",
+    "A": "52",
+    "B": "58",
+    "YES": "A"
+  },
+  {
+    "Q": "What are animals that eat both meat and plants called?",
+    "A": "Omnivores",
+    "B": "Carnivore",
+    "YES": "A"
+  },
+  {
+    "Q": "How many teeth does an adult human have?",
+    "A": "32",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "Which planet has the most gravity?",
+    "A": "Jupiter",
+    "B": "Saturn",
+    "YES": "A"
+  },
+  {
+    "Q": "Which animal's fingerprints look exactly like human fingerprints?",
+    "A": "Koala",
+    "B": "Gorilla",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the name of the teacup in Beauty and the Beast?",
+    "A": "Chip",
+    "B": "Quentin",
+    "YES": "A"
+  },
+  {
+    "Q": "How many wings does a bee have?",
+    "A": "4",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the name of Batman's crime fighting partner?",
+    "A": "Robin",
+    "B": "Harley Quinn",
+    "YES": "A"
+  },
+  {
+    "Q": "Who will be our new vice president in 2021?",
+    "A": "Kamala Harris",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of these is NOT the name of a Teenage Mutant Ninja Turtle?",
+    "A": "Picasso",
+    "B": "Leonardo",
+    "YES": "A"
+  },
+  {
+    "Q": "Who is Bonnie's favorite toy in Toy Story 4?",
+    "A": "Forky",
+    "B": "Spork",
+    "YES": "A"
+  },
+  {
+    "Q": "How many bones are in an adult human body?",
+    "A": "206",
+    "B": "102",
+    "YES": "A"
+  },
+  {
+    "Q": "In the movie Frozen, which song does Elsa sing as she builds the castle?",
+    "A": "Let It Go",
+    "B": "Into the Unknown",
+    "YES": "A"
+  },
+  {
+    "Q": "The Stanley Cup is awarded in which sport?",
+    "A": "Hockey",
+    "B": "Soccer",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the fourth letter of the alphabet?",
+    "A": "D",
+    "B": "A",
+    "YES": "A"
+  },
+  {
+    "Q": "What number comes right before the number 4?",
+    "A": "3",
+    "B": "5",
+    "YES": "A"
+  },
+  {
+    "Q": "What is 4 x 4",
+    "A": "16",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "Which one is not one of the 4 cardinal directions?",
+    "A": "Southeast",
+    "B": "West",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the fourth month of the year?",
+    "A": "April",
+    "B": "May",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the fourth day of the week?",
+    "A": "Wednesday",
+    "B": "Monday",
+    "YES": "A"
+  },
+  {
+    "Q": "The four seasons are",
+    "A": "spring, summer, winter, fall",
+    "B": "up, down, right, left",
+    "YES": "A"
+  },
+  {
+    "Q": "What is another name for Independence Day?",
+    "A": "4th of July",
+    "B": "Labor Day",
+    "YES": "A"
+  },
+  {
+    "Q": "How many legs do spiders have?",
+    "A": "8",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "What country is home to the kangaroo?",
+    "A": "Australia",
+    "B": "Germany",
+    "YES": "A"
+  },
+  {
+    "Q": "Which one of these is a baseball team?",
+    "A": "Boston Red Sox",
+    "B": "Los Angeles Lakers",
+    "YES": "A"
+  },
+  {
+    "Q": "Who sings \"Shake it off?\"",
+    "A": "Taylor Swift",
+    "B": "Billie Eilish",
+    "YES": "A"
+  },
+  {
+    "Q": "The Declaration of Independence can be compared to a...",
+    "A": "Break-up letter",
+    "B": "Song",
+    "YES": "A"
+  },
+  {
+    "Q": "What holiday is also known as All Hallows Eve?",
+    "A": "Halloween",
+    "B": "Christmas",
+    "YES": "A"
+  },
+  {
+    "Q": "People who live in Brazil speak this language",
+    "A": "Portugese",
+    "B": "Spanish",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of the following is the largest country in the world?",
+    "A": "Russia",
+    "B": "France",
+    "YES": "A"
+  },
+  {
+    "Q": "What do trees provide that is essential to life?",
+    "A": "oxygen",
+    "B": "carbon",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the 4th planet from the sun?",
+    "A": "Mars",
+    "B": "Earth",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the measure of a straight angle?",
+    "A": "180 degrees",
+    "B": "90 degrees",
+    "YES": "A"
+  },
+  {
+    "Q": "What year did the war of the American revolution start",
+    "A": "1775",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of these does NOT cause weathering?",
+    "A": "animals",
+    "B": "wind",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the name of the toy cowboy in Toy Story?",
+    "A": "Woody",
+    "B": "Andy",
+    "YES": "A"
+  },
+  {
+    "Q": "What movie is Princess Fiona from?",
+    "A": "Shrek",
+    "B": "Enchanted",
+    "YES": "A"
+  },
+  {
+    "Q": "Who makes the laws in Maine Government?",
+    "A": "Legislative Branch",
+    "B": "Judicial Branch",
+    "YES": "A"
+  },
+  {
+    "Q": "Which is the name of a football team?",
+    "A": "Buffalo Bills",
+    "B": "New York Yankees",
+    "YES": "A"
+  },
+  {
+    "Q": "What do we call breathing out?",
+    "A": "exhale",
+    "B": "Swallow",
+    "YES": "A"
+  },
+  {
+    "Q": "What does an adjective do?",
+    "A": "Describes a noun",
+    "B": "Names a place",
+    "YES": "A"
+  },
+  {
+    "Q": "What the gateway to the digestive system?",
+    "A": "mouth",
+    "B": "nose",
+    "YES": "A"
+  },
+  {
+    "Q": "Who published the Emancipation Proclamation?",
+    "A": "Abraham Lincoln",
+    "B": "John Wilkes Booth",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of the following states \"seceded\" from the USA?",
+    "A": "Tennessee",
+    "B": "Pennsylvania",
+    "YES": "A"
+  },
+  {
+    "Q": "What \"Fort\" was attacked by southern rebels to start the Civil War?",
+    "A": "Fort Sumpter",
+    "B": "Fort Dickinson",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the cause of why you \"bounce\" while walking on the moon?",
+    "A": "less gravity",
+    "B": "thin atmosphere",
+    "YES": "A"
+  },
+  {
+    "Q": "What year was Google invented?",
+    "A": "1998",
+    "B": "1987",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the tallest mountain in the world?",
+    "A": "Mount Everest",
+    "B": "Mount Kilimanjaro",
+    "YES": "A"
+  },
+  {
+    "Q": "Which animal is known to have the longest lifespan?",
+    "A": "Greenland Shark",
+    "B": "Blue Whale",
+    "YES": "A"
+  },
+  {
+    "Q": "What layer of the Earth is directly below the crust?",
+    "A": "Mantle",
+    "B": "Lithosphere",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of the following animals is a marsupial?",
+    "A": "Kangaroo",
+    "B": "Elephant",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the process by which plants make their food using sunlight called?",
+    "A": "Photosynthesis",
+    "B": "Nutrient Absorption",
+    "YES": "A"
+  },
+  {
+    "Q": "What type of animal is a penguin?",
+    "A": "Bird",
+    "B": "Fish",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the main gas found in the Earth's atmosphere?",
+    "A": "Nitrogen",
+    "B": "Carbon Dioxide",
+    "YES": "A"
+  },
+  {
+    "Q": "Which animal is known as the \"King of the Jungle\"?",
+    "A": "Lion",
+    "B": "Tiger",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the hardest natural substance on Earth?",
+    "A": "Diamond",
+    "B": "Gold",
+    "YES": "A"
+  },
+  {
+    "Q": "How many hearts does an octopus have?",
+    "A": "3",
+    "B": "2",
+    "YES": "A"
+  },
+  {
+    "Q": "A signing group with 4 people is called a...",
+    "A": "quartet",
+    "B": "trio",
+    "YES": "A"
+  },
+  {
+    "Q": "What letters are on the 4 button of a cell phone?",
+    "A": "GHI",
+    "B": "ABC",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was the 4th president of the United States of America?",
+    "A": "James Madison",
+    "B": "George Washington",
+    "YES": "A"
+  },
+  {
+    "Q": "How do you write the number 4 in Roman numerals?",
+    "A": "IV",
+    "B": "III",
+    "YES": "A"
+  },
+  {
+    "Q": "Which word is 4 in Spanish?",
+    "A": "cuatro",
+    "B": "nine",
+    "YES": "A"
+  },
+  {
+    "Q": "What kind of plant is considered lucky?",
+    "A": "a four-leaf clover",
+    "B": "a rose",
+    "YES": "A"
+  },
+  {
+    "Q": "The fourth batter in a baseball line-up is called a....",
+    "A": "cleanup hitter",
+    "B": "baseball player",
+    "YES": "A"
+  },
+  {
+    "Q": "Which shape has 4 sides?",
+    "A": "square",
+    "B": "triangle",
+    "YES": "A"
+  },
+  {
+    "Q": "What was the 4th gift in the 12 Days of Christmas?",
+    "A": "4 calling birds",
+    "B": "4 french horns",
+    "YES": "A"
+  },
+  {
+    "Q": "Which of the following colors are not on the Olympic Rings?",
+    "A": "Orange",
+    "B": "Green",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the rarest M&M color?",
+    "A": "Brown",
+    "B": "Red",
+    "YES": "A"
+  },
+  {
+    "Q": "How many ribs are in a human body?",
+    "A": "24",
+    "B": "26",
+    "YES": "A"
+  },
+  {
+    "Q": "Which country produces the most coffee in the world?",
+    "A": "Brazil",
+    "B": "Vietnam",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the smallest country in the world?",
+    "A": "Vatican City",
+    "B": "Nauru",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the most common letter in the English alphabet?",
+    "A": "E",
+    "B": "G",
+    "YES": "A"
+  },
+  {
+    "Q": "Name a mammal that can't jump",
+    "A": "rhino",
+    "B": "dolphin",
+    "YES": "A"
+  },
+  {
+    "Q": "What country is the world’s leading banana grower?",
+    "A": "India",
+    "B": "Vietnam",
+    "YES": "A"
+  },
+  {
+    "Q": "Where is the Women's Basketball Hall of Fame?",
+    "A": "Knoxville",
+    "B": "Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "Best Picture 1997",
+    "A": "Titanic",
+    "B": "Treasure Island",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was the first president to be born in a hospital?",
+    "A": "Jimmy Carter",
+    "B": "Ronald Reagan",
+    "YES": "A"
+  },
+  {
+    "Q": "Youngest person ever to be President",
+    "A": "Theodore Roosevelt",
+    "B": "Grover Cleveland",
+    "YES": "A"
+  },
+  {
+    "Q": "The first movie of The Fast and Furious franchise was released in what year?",
+    "A": "2001",
+    "B": "1999",
+    "YES": "A"
+  },
+  {
+    "Q": "What was the first Call of Duty to feature Zombies?",
+    "A": "Call of Duty World At War",
+    "B": "Call of Duty Modern Warfare 2",
+    "YES": "A"
+  },
+  {
+    "Q": "What year was Call of Duty made in?",
+    "A": "2003",
+    "B": "2006",
+    "YES": "A"
+  },
+  {
+    "Q": "What religion has the most members worldwide?",
+    "A": "Christianity",
+    "B": "Buddhism",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the closest star to planet Earth?",
+    "A": "The Sun",
+    "B": "The Moon",
+    "YES": "A"
+  },
+  {
+    "Q": "What city is nicknamed the Windy City?",
+    "A": "Chicago",
+    "B": "Milwaukee",
+    "YES": "A"
+  },
+  {
+    "Q": "What city is nicknamed the Big Apple?",
+    "A": "New York",
+    "B": "Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "What state is nicknamed the Golden State?",
+    "A": "California",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Who was a hero but also the villain in spider man far from home",
+    "A": "Mysterio",
+    "B": "Spider man",
+    "YES": "A"
+  },
+  {
+    "Q": "Egyptians built earthen walls to trap the Nile's flood",
+    "A": "waters",
+    "B": "Stone",
+    "YES": "A"
+  },
+  {
+    "Q": "Ruling family",
+    "A": "dynasty",
+    "B": "pyramid",
+    "YES": "A"
+  },
+  {
+    "Q": "Egypt is located on which continent",
+    "A": "Africa",
+    "B": "Asia",
+    "YES": "A"
+  },
+  {
+    "Q": "Which river is said to \"give life to Egypt\" both in ancient and modern times?",
+    "A": "Nile",
+    "B": "Ganges River",
+    "YES": "A"
+  },
+  {
+    "Q": "What geographical features act as natural barriers that protect Egypt from attack?",
+    "A": "Deserts and the Nile cataracts",
+    "B": "snow and the Nile River",
+    "YES": "A"
+  },
+  {
+    "Q": "How did most people in Egypt earn a living?",
+    "A": "farming",
+    "B": "trade",
+    "YES": "A"
+  },
+  {
+    "Q": "When Was Micheal Jordan Drafted",
+    "A": "1984",
+    "B": "1986",
+    "YES": "A"
+  },
+  {
+    "Q": "What is a religious or holiday song called?",
+    "A": "Carol",
+    "B": "Hymn",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the largest internal organ of the human body?",
+    "A": "Liver",
+    "B": "Lungs",
+    "YES": "A"
+  },
+  {
+    "Q": "What exercise engages every muscle group?",
+    "A": "Burpees",
+    "B": "Sit-Ups",
+    "YES": "A"
+  },
+  {
+    "Q": "How many days are in August?",
+    "A": "31",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "How fast can a cheetah run?",
+    "A": "68-75 mph",
+    "B": "51-56 mph",
+    "YES": "A"
+  },
+  {
+    "Q": "Which country consumes the most ice cream per capita?",
+    "A": "United States",
+    "B": "Italy",
+    "YES": "A"
+  },
+  {
+    "Q": "In which year was the ice cream cone first invented?",
+    "A": "1904",
+    "B": "1900",
+    "YES": "A"
+  },
+  {
+    "Q": "Which singer is often referred to as the \"Queen of Pop\"?",
+    "A": "Madonna",
+    "B": "Beyoncé",
+    "YES": "A"
+  },
+  {
+    "Q": "Which actor starred in the \"Mission: Impossible\" series?",
+    "A": "Tom Cruise",
+    "B": "Will Smith",
+    "YES": "A"
+  },
+  {
+    "Q": "The movement of blood through the heart and body is called:",
+    "A": "Circulation",
+    "B": "Heart pump",
+    "YES": "A"
+  },
+  {
+    "Q": "What organ removes waste from blood?",
+    "A": "Kidneys",
+    "B": "Lungs",
+    "YES": "A"
+  },
+  {
+    "Q": "These are the tubes that carry blood back to the heart:",
+    "A": "Veins",
+    "B": "Pipes",
+    "YES": "A"
+  },
+  {
+    "Q": "This part of the cell regulates what enters or leaves the cell:",
+    "A": "Cell Membrane",
+    "B": "Cytoplasm",
+    "YES": "A"
+  },
+  {
+    "Q": "Plants transport water and dissolved susbstances through:",
+    "A": "Xylem",
+    "B": "Stem",
+    "YES": "A"
+  },
+  {
+    "Q": "Plant absorbs water through the:",
+    "A": "Roots",
+    "B": "Leaf",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the name of the first satellite sent into space by humans in 1957?",
+    "A": "Sputnik 1",
+    "B": "Apollo 11",
+    "YES": "A"
+  },
+  {
+    "Q": "What vitamin is most commonly found in oranges?",
+    "A": "Vitamin C",
+    "B": "Vitamin A",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the process called when bread rises before baking?",
+    "A": "Fermentation",
+    "B": "Evaporation",
+    "YES": "A"
+  },
+  {
+    "Q": "Which food group do beans belong to?",
+    "A": "Protein",
+    "B": "Grains",
+    "YES": "A"
+  },
+  {
+    "Q": "Who will host the 2020 Olympic Games?",
+    "A": "Japan",
+    "B": "Sydney",
+    "YES": "A"
+  },
+  {
+    "Q": "In which year was the first iPad released?",
+    "A": "2010",
+    "B": "2009",
+    "YES": "A"
+  },
+  {
+    "Q": "What U.S. president's  face is on the dime?",
+    "A": "Roosevelt",
+    "B": "Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the world's longest river?",
+    "A": "Amazon",
+    "B": "Mississippi",
+    "YES": "A"
+  },
+  {
+    "Q": "How many stars does the flag of the United States of America now have?",
+    "A": "50",
+    "B": "40",
+    "YES": "A"
+  },
+  {
+    "Q": "What is the definition of prehistory?",
+    "A": "History before writing.",
+    "B": "History before fire",
+    "YES": "A"
+  },
+  {
+    "Q": "What color is a polar bear's skin?",
+    "A": "black",
+    "B": "yellow",
+    "YES": "A"
+  },
+  {
+    "Q": "The middle number in a sorted list of numbers.",
+    "A": "Median",
+    "B": "Quotient",
+    "YES": "A"
+  },
+  {
+    "Q": "Word meaning division",
+    "A": "Quotient",
+    "B": "Fraction",
+    "YES": "A"
+  },
+  {
+    "Q": "In an ordered pair, the value that is always written second.",
+    "A": "y-coordinate",
+    "B": "y-axis",
+    "YES": "A"
+  }
+]

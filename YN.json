@@ -1,0 +1,1298 @@
+﻿[
+  {
+    "Q": "Apa nama samudra terluas di dunia?",
+    "A": "Samudra Pasifik",
+    "B": "Samudra India",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapakah Presiden Afrika Amerika pertama di Amerika Serikat?",
+    "A": "Barack Obama",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa banyak benua di dunia ini?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "Aktor Arnold Schwarzenegger pernah menjadi gubernur negara bagian Amerika yang mana?",
+    "A": "Kalifornia",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Kecebong tumbuh menjadi apa?",
+    "A": "katak",
+    "B": "ular",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapakah yang menulis seri buku Harry Potter yang terkenal?",
+    "A": "J.K. Rowling",
+    "B": "Dan Brown",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara manakah yang memberikan Patung Liberty yang terkenal kepada Amerika Serikat sebagai hadiah pada tahun 1886?",
+    "A": "Perancis",
+    "B": "Jerman",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa ibu kota negara bagian Hawaii di AS?",
+    "A": "Kota Honolulu",
+    "B": "Makaha",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa hari dalam tahun kabisat?",
+    "A": "366",
+    "B": "365",
+    "YES": "A"
+  },
+  {
+    "Q": "Pelangi memiliki berapa warna?",
+    "A": "7",
+    "B": "9",
+    "YES": "A"
+  },
+  {
+    "Q": "Termometer adalah alat ukur untuk mengukur apa?",
+    "A": "suhu",
+    "B": "tekanan darah",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama anak kambing?",
+    "A": "anak",
+    "B": "anak kucing",
+    "YES": "A"
+  },
+  {
+    "Q": "Peter Pan merupakan kapten dari kelompok anak laki-laki yang mana?",
+    "A": "Anak laki-laki yang hilang",
+    "B": "Pria yang Hilang",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapakah manusia pertama yang menginjakkan kaki di bulan?",
+    "A": "Neil Armstrong",
+    "B": "Albert Einstein",
+    "YES": "A"
+  },
+  {
+    "Q": "Batman tinggal di kota mana?",
+    "A": "Kota Gotham",
+    "B": "Kota Zamrud",
+    "YES": "A"
+  },
+  {
+    "Q": "Dari arah manakah matahari terbit?",
+    "A": "Timur",
+    "B": "Barat",
+    "YES": "A"
+  },
+  {
+    "Q": "Nama apa yang diberikan untuk gajah betina?",
+    "A": "Sapi",
+    "B": "Ratu",
+    "YES": "A"
+  },
+  {
+    "Q": "Jenis hewan apakah kelelawar?",
+    "A": "mamalia",
+    "B": "Vertebrata",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa hewan tertinggi di dunia?",
+    "A": "jerapah",
+    "B": "burung unta",
+    "YES": "A"
+  },
+  {
+    "Q": "Segitiga terdiri dari berapa sisi?",
+    "A": "Tiga",
+    "B": "Tujuh",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa nama koboi mainan dalam Toy Story?",
+    "A": "kayu",
+    "B": "Berdengung",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah planet dalam tata surya kita?",
+    "A": "8",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "Menurut Dr. Suess, siapa yang mencuri Natal?",
+    "A": "Si Grinch",
+    "B": "Sinterklas",
+    "YES": "A"
+  },
+  {
+    "Q": "Nemo jenis ikan apa?",
+    "A": "Ikan badut",
+    "B": "Hiu",
+    "YES": "A"
+  },
+  {
+    "Q": "Di mana Piramida Agung Giza?",
+    "A": "Mesir",
+    "B": "India",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa itu rusa betina?",
+    "A": "Rusa",
+    "B": "Anjing",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah hari dalam setahun?",
+    "A": "365",
+    "B": "367",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa mamalia terbesar di dunia?",
+    "A": "Paus",
+    "B": "Hiu",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan apa yang tertinggi di dunia?",
+    "A": "Jerapah",
+    "B": "Kucing",
+    "YES": "A"
+  },
+  {
+    "Q": "Di ibu kota Eropa manakah Anda akan menemukan Menara Eiffel?",
+    "A": "Paris",
+    "B": "Perancis",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa yang bisa membuat Harry Potter tidak terlihat?",
+    "A": "Jubah tembus pandangnya",
+    "B": "tongkat sihirnya",
+    "YES": "A"
+  },
+  {
+    "Q": "Seorang ilmuwan yang mempelajari batuan disebut",
+    "A": "Ahli geologi",
+    "B": "Ahli batu",
+    "YES": "A"
+  },
+  {
+    "Q": "Jika Anda menderita arachnofobia, hewan apa yang Anda takuti?",
+    "A": "laba-laba",
+    "B": "Anjing",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa banyak tulang yang dimiliki hiu?",
+    "A": "0",
+    "B": "100",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa negara bagian terbesar di Amerika?",
+    "A": "Bahasa Indonesia: Alaska",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Dari pohon apakah biji pohon ek berasal?",
+    "A": "Ek",
+    "B": "Pinus",
+    "YES": "A"
+  },
+  {
+    "Q": "Ada berapa banyak Danau Besar?",
+    "A": "5",
+    "B": "7",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa benua terbesar?",
+    "A": "Asia",
+    "B": "Afrika",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa yang dibutuhkan orang yang haus?",
+    "A": "minum air",
+    "B": "tidur",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa hewan darat terbesar yang masih hidup?",
+    "A": "gajah",
+    "B": "badak",
+    "YES": "A"
+  },
+  {
+    "Q": "Laut manakah yang berada di lepas pantai California?",
+    "A": "Samudra Pasifik",
+    "B": "Samudra Atlantik",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa warna bintang pada bendera Amerika Serikat?",
+    "A": "putih",
+    "B": "Merah",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa presiden pertama Amerika Serikat?",
+    "A": "George Washington",
+    "B": "Abraham Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan ternak apa yang memberi kita susu untuk diminum?",
+    "A": "kambing",
+    "B": "babi",
+    "YES": "A"
+  },
+  {
+    "Q": "Dalam sajak anak-anak, 'Jack dan Jill', untuk mengambil apa Jack dan Jill naik bukit?",
+    "A": "seember air",
+    "B": "minuman bersoda",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan apa yang mendengkur dan terkenal suka mengejar tikus?",
+    "A": "kucing",
+    "B": "anjing",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa sebutan bagi anak-anak yang pergi bermain saat jam istirahat sekolah?",
+    "A": "makan siang",
+    "B": "reses",
+    "YES": "A"
+  },
+  {
+    "Q": "Di mana Presiden Amerika Serikat tinggal?",
+    "A": "Kota Washington",
+    "B": "Kota New York",
+    "YES": "A"
+  },
+  {
+    "Q": "Kapan hari kemerdekaan pertama di Amerika?",
+    "A": "1776",
+    "B": "1780",
+    "YES": "A"
+  },
+  {
+    "Q": "Amerika dibagi menjadi berapa koloni?",
+    "A": "13",
+    "B": "15",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang memerintah Amerika sebelum mereka memperoleh kemerdekaannya?",
+    "A": "orang Inggris",
+    "B": "Cina",
+    "YES": "A"
+  },
+  {
+    "Q": "Kapan konstitusi ditulis?",
+    "A": "1787",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang menulis deklarasi kemerdekaan?",
+    "A": "Para Bapak Pendiri",
+    "B": "Raja Inggris",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa nilai desimal pecahan 2/5?",
+    "A": "0.4",
+    "B": "0.2",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa istilah dalam bowling ketika Anda menjatuhkan semua sepuluh pin pada lemparan pertama Anda?",
+    "A": "Memukul",
+    "B": "Bingkai",
+    "YES": "A"
+  },
+  {
+    "Q": "Pada tahun berapa Amerika Serikat merayakan ulang tahunnya ke-200?",
+    "A": "1976",
+    "B": "1970",
+    "YES": "A"
+  },
+  {
+    "Q": "Lapisan atmosfer manakah yang sebagiannya telah rusak oleh bahan kimia tertentu?",
+    "A": "Lapisan Ozon",
+    "B": "Troposhpere",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa warna hidangan Meksiko yang disebut guacamole?",
+    "A": "hijau",
+    "B": "biru",
+    "YES": "A"
+  },
+  {
+    "Q": "Jenis air apa yang paling umum di Bumi?",
+    "A": "Air Asin",
+    "B": "Air Tawar",
+    "YES": "A"
+  },
+  {
+    "Q": "Pahlawan Inggris legendaris manakah yang mencuri dari orang kaya dan memberikannya kepada orang miskin?",
+    "A": "Robin Hood",
+    "B": "Peter Pan",
+    "YES": "A"
+  },
+  {
+    "Q": "Jika Anda menjumlahkan setiap sudut dalam suatu segitiga, berapa totalnya?",
+    "A": "180 derajat",
+    "B": "60 derajat",
+    "YES": "A"
+  },
+  {
+    "Q": "Jika saat ini tengah hari di New York City, jam berapa sekarang di San Francisco?",
+    "A": "12/31/1899 9:00:00 AM",
+    "B": "12/31/1899 8:00:00 AM",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa arti julukan \"Old Glory\"?",
+    "A": "Bendera Amerika",
+    "B": "Air Mancur Pemuda",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara bagian mana yang menempati dua semenanjung?",
+    "A": "Michigan",
+    "B": "Kota New York",
+    "YES": "A"
+  },
+  {
+    "Q": "Warna Apa yang Paling Banyak Menyerap Sinar Matahari?",
+    "A": "Hitam",
+    "B": "Merah",
+    "YES": "A"
+  },
+  {
+    "Q": "Untuk apa ikan menggunakan insangnya?",
+    "A": "pernafasan",
+    "B": "renang",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa bentuk lampau dari kata 'hurry'?",
+    "A": "keburu",
+    "B": "terburu-buru",
+    "YES": "A"
+  },
+  {
+    "Q": "Angka berapakah yang berada pada tempat perseribu pada bilangan 3.654.019?",
+    "A": "9",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Konsonan manakah yang tidak berbunyi pada kata-kata berikut?",
+    "A": "T",
+    "B": "Bahasa Inggris:",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa artinya jika Anda kebal terhadap suatu penyakit atau penyakit?",
+    "A": "Kamu tidak bisa menangkapnya",
+    "B": "Itu genetik",
+    "YES": "A"
+  },
+  {
+    "Q": "Gunung apa yang harus dilewati para pionir awal untuk mencapai Kentucky saat ini?",
+    "A": "Pegunungan Appalachian",
+    "B": "Pegunungan Virginia",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa yang kita sebut bagian pertama dari sebuah buku atau cerita?",
+    "A": "Eksposisi",
+    "B": "Konflik",
+    "YES": "A"
+  },
+  {
+    "Q": "Fenomena alam apa yang menciptakan bukit pasir?",
+    "A": "Angin",
+    "B": "Hujan",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara mana yang bukan Amerika Selatan?",
+    "A": "Guatemala",
+    "B": "Chili",
+    "YES": "A"
+  },
+  {
+    "Q": "Dalam Mitologi Romawi, siapa raja para dewa?",
+    "A": "Jupiter",
+    "B": "Air raksa",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa itu kata sifat?",
+    "A": "Sebuah kata yang menjelaskan kata benda",
+    "B": "Sebuah kata tindakan",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa tahun sekali Olimpiade Musim Panas diadakan?",
+    "A": "4 tahun",
+    "B": "2 tahun",
+    "YES": "A"
+  },
+  {
+    "Q": "Sederhanakan pecahan 18/24.",
+    "A": "3/4",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah dari berikut ini yang setara dengan 3/4?",
+    "A": "6/8",
+    "B": "2/3",
+    "YES": "A"
+  },
+  {
+    "Q": "Tambahkan pecahan berikut: 2/5 + 3/10.",
+    "A": "7/10",
+    "B": "1/2",
+    "YES": "A"
+  },
+  {
+    "Q": "Kurangi pecahan berikut: 7/8 - 1/4.",
+    "A": "5/8",
+    "B": "3/4",
+    "YES": "A"
+  },
+  {
+    "Q": "Kalikan pecahan berikut: 2/3 脳 3/5.",
+    "A": "2/5",
+    "B": "1/5",
+    "YES": "A"
+  },
+  {
+    "Q": "Elemen apa yang dilambangkan oleh AU?",
+    "A": "Emas",
+    "B": "Karbon",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa 1025 dibagi 5?",
+    "A": "205",
+    "B": "225",
+    "YES": "A"
+  },
+  {
+    "Q": "Jenis pidato apakah yang \"dilihat sekilas\"?",
+    "A": "kata kerja",
+    "B": "kata benda",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang menyanyikan \"terima kasih selanjutnya\"",
+    "A": "Ariana Grande",
+    "B": "Penyanyi Taylor Swift",
+    "YES": "A"
+  },
+  {
+    "Q": "Yang mana di antara ini yang merupakan pemain basket?",
+    "A": "Kobe Bryant",
+    "B": "Sayang Ruth",
+    "YES": "A"
+  },
+  {
+    "Q": "Yang mana di antara ini yang merupakan pemain bisbol?",
+    "A": "Sayang Ruth",
+    "B": "Steph Kari",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan manakah yang hidup di ekosistem kolam?",
+    "A": "ikan",
+    "B": "burung",
+    "YES": "A"
+  },
+  {
+    "Q": "Pada musim apa daun berubah warna?",
+    "A": "Jatuh",
+    "B": "Musim panas",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa umur seseorang harus bekerja di pekerjaan publik?",
+    "A": "25",
+    "B": "14",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa umur yang sah untuk dapat mengemudi?",
+    "A": "15",
+    "B": "29",
+    "YES": "A"
+  },
+  {
+    "Q": "Apakah big foot itu nyata atau mitos?",
+    "A": "mitos",
+    "B": "nyata",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa banyak kartu yang ada dalam satu dek penuh?",
+    "A": "52",
+    "B": "58",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan yang memakan daging dan tumbuhan disebut?",
+    "A": "Omnivora",
+    "B": "Karnivora",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah gigi yang dimiliki manusia dewasa?",
+    "A": "32",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "Planet manakah yang memiliki gravitasi paling besar?",
+    "A": "Jupiter",
+    "B": "Saturn",
+    "YES": "A"
+  },
+  {
+    "Q": "Sidik jari hewan manakah yang bentuknya mirip sekali dengan sidik jari manusia?",
+    "A": "Koala",
+    "B": "Gorila",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama cangkir teh dalam Beauty and the Beast?",
+    "A": "Keripik",
+    "B": "Bahasa Indonesia: Quentin",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah sayap yang dimiliki lebah?",
+    "A": "4",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa nama rekan Batman dalam membasmi kejahatan?",
+    "A": "Robin",
+    "B": "Harley Quinn",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang akan menjadi wakil presiden baru kita pada tahun 2021?",
+    "A": "Kamala Harris",
+    "B": "Joe Biden",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah di antara ini yang BUKAN nama Teenage Mutant Ninja Turtle?",
+    "A": "Lukisan Picasso",
+    "B": "Leonardo",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa mainan favorit Bonnie di Toy Story 4?",
+    "A": "Bercabang",
+    "B": "Sendok Garpu",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah tulang dalam tubuh manusia dewasa?",
+    "A": "206",
+    "B": "102",
+    "YES": "A"
+  },
+  {
+    "Q": "Dalam film Frozen, lagu apa yang dinyanyikan Elsa saat dia membangun istana?",
+    "A": "Biarkan Saja",
+    "B": "Ke dalam hal yang tidak diketahui",
+    "YES": "A"
+  },
+  {
+    "Q": "Piala Stanley diberikan dalam cabang olahraga apa?",
+    "A": "Hoki",
+    "B": "Sepak bola",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa huruf keempat dalam alfabet?",
+    "A": "D",
+    "B": "A",
+    "YES": "A"
+  },
+  {
+    "Q": "Angka berapa yang muncul tepat sebelum angka 4?",
+    "A": "3",
+    "B": "5",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa itu 4x4",
+    "A": "16",
+    "B": "12",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah yang bukan salah satu dari 4 arah mata angin?",
+    "A": "Tenggara",
+    "B": "Barat",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa bulan keempat dalam setahun?",
+    "A": "April",
+    "B": "Mungkin",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa hari keempat dalam seminggu?",
+    "A": "Rabu",
+    "B": "Senin",
+    "YES": "A"
+  },
+  {
+    "Q": "Empat musim adalah",
+    "A": "musim semi, musim panas, musim dingin, musim gugur",
+    "B": "atas, bawah, kanan, kiri",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama lain dari Hari Kemerdekaan?",
+    "A": "4 Juli",
+    "B": "hari Buruh",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah kaki laba-laba?",
+    "A": "8",
+    "B": "6",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara manakah yang menjadi rumah bagi kanguru?",
+    "A": "Bahasa Indonesia: Australia",
+    "B": "Jerman",
+    "YES": "A"
+  },
+  {
+    "Q": "Yang manakah di antara ini yang merupakan tim bisbol?",
+    "A": "Tim Boston Red Sox",
+    "B": "Los Angeles Lakers",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang menyanyikan \"Shake it off?\"",
+    "A": "Penyanyi Taylor Swift",
+    "B": "Billie Eilish",
+    "YES": "A"
+  },
+  {
+    "Q": "Deklarasi Kemerdekaan dapat dibandingkan dengan...",
+    "A": "Surat putus",
+    "B": "Lagu",
+    "YES": "A"
+  },
+  {
+    "Q": "Hari libur apa yang juga dikenal sebagai All Hallows Eve?",
+    "A": "Hallowen (Hari Hallowen)",
+    "B": "Natal",
+    "YES": "A"
+  },
+  {
+    "Q": "Orang-orang yang tinggal di Brasil berbicara bahasa ini",
+    "A": "Portugis",
+    "B": "Spanyol",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah dari berikut ini merupakan negara terbesar di dunia?",
+    "A": "Rusia",
+    "B": "Perancis",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa saja yang disediakan pohon yang penting bagi kehidupan?",
+    "A": "oksigen",
+    "B": "karbon",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa planet ke-4 dari matahari?",
+    "A": "Mars",
+    "B": "Bumi",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapakah besar sudut lurus?",
+    "A": "180 derajat",
+    "B": "90 derajat",
+    "YES": "A"
+  },
+  {
+    "Q": "Tahun berapa perang revolusi Amerika dimulai?",
+    "A": "1775",
+    "B": "1776",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah di antara berikut ini yang TIDAK menyebabkan pelapukan?",
+    "A": "Hewan",
+    "B": "angin",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama mainan koboi diCerita Mainan?",
+    "A": "kayu",
+    "B": "andi",
+    "YES": "A"
+  },
+  {
+    "Q": "Putri Fiona berasal dari film apa?",
+    "A": "Shrek",
+    "B": "Terpesona",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang membuat hukum di Pemerintahan Maine?",
+    "A": "Cabang Legislatif",
+    "B": "Cabang Yudikatif",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama tim sepak bola?",
+    "A": "Bills Kerbau",
+    "B": "Tim New York Yankees",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa yang kita sebut dengan menghembuskan napas?",
+    "A": "menghembuskan",
+    "B": "Angsa",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa fungsi kata sifat?",
+    "A": "Menjelaskan kata benda",
+    "B": "Menamai suatu tempat",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa gerbang menuju sistem pencernaan?",
+    "A": "mulut",
+    "B": "hidung",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang menerbitkan Proklamasi Emansipasi?",
+    "A": "Abraham Lincoln",
+    "B": "John Wilkes, pemilik Booth",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara bagian mana berikut yang \"memisahkan diri\" dari AS?",
+    "A": "Bahasa Tennesse",
+    "B": "Pensylvania",
+    "YES": "A"
+  },
+  {
+    "Q": "\"Benteng\" apa yang diserang pemberontak selatan untuk memulai Perang Saudara?",
+    "A": "Benteng Sumpter",
+    "B": "Benteng Dickinson",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa penyebab Anda \"memantul\" saat berjalan di bulan?",
+    "A": "gravitasi lebih rendah",
+    "B": "atmosfer tipis",
+    "YES": "A"
+  },
+  {
+    "Q": "Tahun berapa Google ditemukan?",
+    "A": "1998",
+    "B": "1987",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa gunung tertinggi di dunia?",
+    "A": "Gunung Everest",
+    "B": "Gunung Kilimanjaro",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan apa yang diketahui memiliki umur terpanjang?",
+    "A": "Hiu Greenland",
+    "B": "Paus Biru",
+    "YES": "A"
+  },
+  {
+    "Q": "Lapisan bumi manakah yang berada tepat di bawah kerak bumi?",
+    "A": "Mantel",
+    "B": "Litosfer",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan berikut yang termasuk marsupial adalah?",
+    "A": "Kanguru",
+    "B": "Gajah",
+    "YES": "A"
+  },
+  {
+    "Q": "Proses dimana tumbuhan membuat makanannya dengan menggunakan sinar matahari disebut?",
+    "A": "Fotosintesis",
+    "B": "Penyerapan Nutrisi",
+    "YES": "A"
+  },
+  {
+    "Q": "Jenis hewan apakah penguin?",
+    "A": "Burung",
+    "B": "Ikan",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa gas utama yang ditemukan di atmosfer bumi?",
+    "A": "Nitrogen",
+    "B": "Karbon Dioksida",
+    "YES": "A"
+  },
+  {
+    "Q": "Hewan apa yang dikenal sebagai \"Raja Hutan\"?",
+    "A": "Singa",
+    "B": "Harimau",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa zat alami terkeras di Bumi?",
+    "A": "Berlian",
+    "B": "Emas",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah jantung yang dimiliki gurita?",
+    "A": "3",
+    "B": "2",
+    "YES": "A"
+  },
+  {
+    "Q": "Kelompok penandatanganan yang beranggotakan 4 orang disebut...",
+    "A": "kuartet",
+    "B": "trio",
+    "YES": "A"
+  },
+  {
+    "Q": "Huruf apa saja yang ada pada tombol 4 pada ponsel?",
+    "A": "GHI",
+    "B": "Bahasa Inggris",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa presiden Amerika Serikat yang ke-4?",
+    "A": "James Madiun",
+    "B": "George Washington",
+    "YES": "A"
+  },
+  {
+    "Q": "Bagaimana cara menulis angka 4 dalam angka Romawi?",
+    "A": "IV",
+    "B": "AKU AKU AKU",
+    "YES": "A"
+  },
+  {
+    "Q": "Kata apa yang angka 4 dalam bahasa Spanyol?",
+    "A": "empat",
+    "B": "sembilan",
+    "YES": "A"
+  },
+  {
+    "Q": "Tanaman apa yang dianggap membawa keberuntungan?",
+    "A": "semanggi berdaun empat",
+    "B": "sebuah mawar",
+    "YES": "A"
+  },
+  {
+    "Q": "Pemukul keempat dalam barisan pemain bisbol disebut....",
+    "A": "pemukul pembersih",
+    "B": "pemain bisbol",
+    "YES": "A"
+  },
+  {
+    "Q": "Bentuk manakah yang memiliki 4 sisi?",
+    "A": "persegi",
+    "B": "segi tiga",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa hadiah ke-4 dalam 12 Hari Natal?",
+    "A": "4 burung yang memanggil",
+    "B": "4 tanduk Perancis",
+    "YES": "A"
+  },
+  {
+    "Q": "Manakah dari warna berikut yangbukandi Cincin Olimpiade?",
+    "A": "Oranye",
+    "B": "Hijau",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa warna M&M yang paling langka?",
+    "A": "Cokelat",
+    "B": "Merah",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah tulang rusuk pada tubuh manusia?",
+    "A": "24",
+    "B": "26",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara mana yang menghasilkan kopi terbanyak di dunia?",
+    "A": "Brazil",
+    "B": "Vietnam",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa negara terkecil di dunia?",
+    "A": "Kota Vatikan",
+    "B": "Bahasa Indonesia: Nauru",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa huruf yang paling umum dalam alfabet bahasa Inggris?",
+    "A": "Bahasa Inggris",
+    "B": "G",
+    "YES": "A"
+  },
+  {
+    "Q": "Sebutkan mamalia yang tidak bisa melompat",
+    "A": "badak",
+    "B": "lumba-lumba",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara manakah yang merupakan penghasil pisang terbanyak di dunia?",
+    "A": "India",
+    "B": "Vietnam",
+    "YES": "A"
+  },
+  {
+    "Q": "Di manakah Hall of Fame Bola Basket Wanita?",
+    "A": "Kota Knoxville",
+    "B": "Kota Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "Film Terbaik 1997",
+    "A": "Raksasa",
+    "B": "Pulau Harta Karun",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa presiden pertama yang dilahirkan di rumah sakit?",
+    "A": "Jimmy Carter",
+    "B": "Ronald Reagan",
+    "YES": "A"
+  },
+  {
+    "Q": "Orang termuda yang pernah menjadi Presiden",
+    "A": "Theodore Roosevelt",
+    "B": "Grover Cleveland",
+    "YES": "A"
+  },
+  {
+    "Q": "Film pertama dari waralaba Fast and Furious dirilis pada tahun berapa?",
+    "A": "2001",
+    "B": "1999",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa Call of Duty pertama yang menampilkan Zombie?",
+    "A": "Panggilan Tugas Perang Dunia",
+    "B": "Panggilan Tugas Modern Warfare 2",
+    "YES": "A"
+  },
+  {
+    "Q": "Call of Duty dibuat pada tahun berapa?",
+    "A": "2003",
+    "B": "2006",
+    "YES": "A"
+  },
+  {
+    "Q": "Agama apa yang memiliki penganut terbanyak di seluruh dunia?",
+    "A": "Kekristenan",
+    "B": "Agama Buddha",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa bintang terdekat dengan planet Bumi?",
+    "A": "Matahari",
+    "B": "Bulan",
+    "YES": "A"
+  },
+  {
+    "Q": "Kota apakah yang dijuluki Kota Berangin?",
+    "A": "Bahasa Indonesia: Chicago",
+    "B": "Kota Milwaukee",
+    "YES": "A"
+  },
+  {
+    "Q": "Kota apa yang dijuluki Big Apple?",
+    "A": "Kota New York",
+    "B": "Kota Los Angeles",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara bagian manakah yang dijuluki Negara Emas?",
+    "A": "Kalifornia",
+    "B": "Texas",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang menjadi pahlawan tetapi juga penjahat di spider man far from home",
+    "A": "Misteri",
+    "B": "Manusia laba-laba",
+    "YES": "A"
+  },
+  {
+    "Q": "Orang Mesir membangun tembok tanah untuk menahan banjir Sungai Nil",
+    "A": "perairan",
+    "B": "Batu",
+    "YES": "A"
+  },
+  {
+    "Q": "Keluarga penguasa",
+    "A": "dinasti",
+    "B": "piramida",
+    "YES": "A"
+  },
+  {
+    "Q": "Mesir terletak di benua mana",
+    "A": "Afrika",
+    "B": "Asia",
+    "YES": "A"
+  },
+  {
+    "Q": "Sungai manakah yang dikatakan \"memberi kehidupan bagi Mesir\" baik pada zaman kuno maupun modern?",
+    "A": "Sungai Nil",
+    "B": "Sungai Gangga",
+    "YES": "A"
+  },
+  {
+    "Q": "Fitur geografis apa yang bertindak sebagai penghalang alami yang melindungi Mesir dari serangan?",
+    "A": "Gurun dan air terjun Nil",
+    "B": "salju dan sungai nil",
+    "YES": "A"
+  },
+  {
+    "Q": "Bagaimana sebagian besar orang di Mesir mencari nafkah?",
+    "A": "pertanian",
+    "B": "berdagang",
+    "YES": "A"
+  },
+  {
+    "Q": "Kapan Michael Jordan Direkrut",
+    "A": "1984",
+    "B": "1986",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama lagu religi atau hari raya?",
+    "A": "Karol",
+    "B": "Nyanyian pujian",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa organ dalam tubuh manusia yang terbesar?",
+    "A": "Hati",
+    "B": "Paru-paru",
+    "YES": "A"
+  },
+  {
+    "Q": "Latihan apa yang melibatkan setiap kelompok otot?",
+    "A": "Latihan Burpee",
+    "B": "Sit-Up",
+    "YES": "A"
+  },
+  {
+    "Q": "Ada berapa hari di bulan Agustus?",
+    "A": "31",
+    "B": "30",
+    "YES": "A"
+  },
+  {
+    "Q": "Seberapa cepat seekor cheetah dapat berlari?",
+    "A": "Kecepatan 68-75 mil/jam",
+    "B": "Kecepatan 51-56 mil/jam",
+    "YES": "A"
+  },
+  {
+    "Q": "Negara mana yang mengonsumsi es krim per kapita paling banyak?",
+    "A": "Amerika Serikat",
+    "B": "Italia",
+    "YES": "A"
+  },
+  {
+    "Q": "Pada tahun berapa es krim pertama kali ditemukan?",
+    "A": "1904",
+    "B": "1900",
+    "YES": "A"
+  },
+  {
+    "Q": "Penyanyi mana yang sering disebut sebagai \"Ratu Pop\"?",
+    "A": "Bunda Maria",
+    "B": "Beyonce dan istrinya",
+    "YES": "A"
+  },
+  {
+    "Q": "Aktor mana yang membintangi serial \"Mission: Impossible\"?",
+    "A": "Tom Cruise",
+    "B": "Will Smith",
+    "YES": "A"
+  },
+  {
+    "Q": "Pergerakan darah melalui jantung dan tubuh disebut:",
+    "A": "Sirkulasi",
+    "B": "Pompa jantung",
+    "YES": "A"
+  },
+  {
+    "Q": "Organ apa yang membuang limbah dari darah?",
+    "A": "Ginjal",
+    "B": "Paru-paru",
+    "YES": "A"
+  },
+  {
+    "Q": "Ini adalah tabung yang membawa darah kembali ke jantung:",
+    "A": "Pembuluh darah",
+    "B": "Pipa",
+    "YES": "A"
+  },
+  {
+    "Q": "Bagian sel ini mengatur apa yang masuk atau keluar dari sel:",
+    "A": "Membran Sel",
+    "B": "Sitoplasma",
+    "YES": "A"
+  },
+  {
+    "Q": "Tumbuhan mengangkut air dan zat terlarut melalui:",
+    "A": "Xilem",
+    "B": "Tangkai",
+    "YES": "A"
+  },
+  {
+    "Q": "Tanaman menyerap air melalui:",
+    "A": "Akar",
+    "B": "Daun",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama satelit pertama yang dikirim ke luar angkasa oleh manusia pada tahun 1957?",
+    "A": "Sputnik 1",
+    "B": "Apollo 11",
+    "YES": "A"
+  },
+  {
+    "Q": "Vitamin apa yang paling umum ditemukan pada jeruk?",
+    "A": "Vitamin C",
+    "B": "Vitamin A",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa nama proses saat roti mengembang sebelum dipanggang?",
+    "A": "Fermentasi",
+    "B": "Penguapan",
+    "YES": "A"
+  },
+  {
+    "Q": "Kacang-kacangan termasuk dalam kelompok makanan yang mana?",
+    "A": "Protein",
+    "B": "Biji-bijian",
+    "YES": "A"
+  },
+  {
+    "Q": "Siapa yang akan menjadi tuan rumah Olimpiade 2020?",
+    "A": "Jepang",
+    "B": "Kota Sydney",
+    "YES": "A"
+  },
+  {
+    "Q": "Tahun berapa iPad pertama dirilis?",
+    "A": "2010",
+    "B": "2009",
+    "YES": "A"
+  },
+  {
+    "Q": "Wajah presiden AS manakah yang ada pada uang receh itu?",
+    "A": "Presiden Roosevelt",
+    "B": "Kota Lincoln",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa sungai terpanjang di dunia?",
+    "A": "Bahasa Indonesia: Amazon.com",
+    "B": "Mississippi",
+    "YES": "A"
+  },
+  {
+    "Q": "Berapa jumlah bintang yang ada pada bendera Amerika Serikat sekarang?",
+    "A": "50",
+    "B": "40",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa definisi prasejarah?",
+    "A": "Sejarah sebelum menulis.",
+    "B": "Sejarah sebelum kebakaran",
+    "YES": "A"
+  },
+  {
+    "Q": "Apa warna kulit beruang kutub?",
+    "A": "hitam",
+    "B": "kuning",
+    "YES": "A"
+  },
+  {
+    "Q": "Angka tengah dalam daftar angka yang diurutkan.",
+    "A": "Rata-rata",
+    "B": "Hasil bagi",
+    "YES": "A"
+  },
+  {
+    "Q": "Kata yang berarti pembagian",
+    "A": "Hasil bagi",
+    "B": "Pecahan",
+    "YES": "A"
+  },
+  {
+    "Q": "Pada pasangan berurutan, nilai yang selalu ditulis kedua.",
+    "A": "koordinat y",
+    "B": "sumbu y",
+    "YES": "A"
+  }
+]
